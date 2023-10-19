@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
-Just a guy that loves encountering problems and building solutions for them. There is a Japanese saying 生きがい or Ikigai, it can be described as the activity that combines: what you love, are good at, what the world needs, and what you can be compensated for. I believe coding is my Ikigai.
+Just a guy that loves encountering problems and building solutions for them. There is a Japanese saying 生きがい or Ikigai, it can be described as the activity that combines: what you love, are good at, what the world needs, and what you can be compensated for. I believe coding is my **Ikigai**.
 
 * 🌍  I'm based in New Jersey
 * 🖥️  See my portfolio at [My Portfolio](http://personal-website-eta-eight-66.vercel.app/)
